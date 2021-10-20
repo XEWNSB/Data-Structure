@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\GList-HT.dir/objects.a
+D:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\GList-HT.dir/objects.a @CMakeFiles\GList-HT.dir\objects1.rsp
+D:\PROGRA~1\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\GList-HT.dir/objects.a -Wl,--no-whole-archive  -o GList-HT.exe -Wl,--out-implib,libGList-HT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GList-HT.dir\linklibs.rsp

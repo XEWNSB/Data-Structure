@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MPList.dir/objects.a
+D:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\MPList.dir/objects.a @CMakeFiles\MPList.dir\objects1.rsp
+D:\PROGRA~1\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\MPList.dir/objects.a -Wl,--no-whole-archive  -o MPList.exe -Wl,--out-implib,libMPList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MPList.dir\linklibs.rsp
