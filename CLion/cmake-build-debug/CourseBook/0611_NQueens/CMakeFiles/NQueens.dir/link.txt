@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\NQueens.dir/objects.a
-D:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\NQueens.dir/objects.a @CMakeFiles\NQueens.dir\objects1.rsp
-D:\PROGRA~1\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\NQueens.dir/objects.a -Wl,--no-whole-archive  -o NQueens.exe -Wl,--out-implib,libNQueens.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NQueens.dir\linklibs.rsp

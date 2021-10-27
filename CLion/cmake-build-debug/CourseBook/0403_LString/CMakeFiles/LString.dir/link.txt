@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LString.dir/objects.a
-D:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\LString.dir/objects.a @CMakeFiles\LString.dir\objects1.rsp
-D:\PROGRA~1\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\LString.dir/objects.a -Wl,--no-whole-archive  -o LString.exe -Wl,--out-implib,libLString.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LString.dir\linklibs.rsp

@@ -1,2 +1,0 @@
-D:\PROGRA~1\mingw64\bin\ar.exe qc libScanf_lib.a  CMakeFiles/Scanf_lib.dir/Status.c.obj
-D:\PROGRA~1\mingw64\bin\ranlib.exe libScanf_lib.a

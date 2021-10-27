@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BiThrTree.dir/objects.a
-D:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\BiThrTree.dir/objects.a @CMakeFiles\BiThrTree.dir\objects1.rsp
-D:\PROGRA~1\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\BiThrTree.dir/objects.a -Wl,--no-whole-archive  -o BiThrTree.exe -Wl,--out-implib,libBiThrTree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BiThrTree.dir\linklibs.rsp
